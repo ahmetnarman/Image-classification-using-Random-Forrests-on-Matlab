@@ -109,7 +109,7 @@ toc
 
 disp('Testing RF classification trees...')
 tic
-labels_2pix=testTrees_fast_2pix(data_train2(:,1:end-1),tree_2pix); % No labels
+labels_2pix=testTrees_fast_2pix(data_query2(:,1:end-1),tree_2pix); % No labels
 toc
 
 %% PART 4' Classifing 2-pixel test
