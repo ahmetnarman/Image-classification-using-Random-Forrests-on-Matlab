@@ -30,6 +30,6 @@ The effects of different parameters on the classification accuracy for the model
 
 ## Quick guide
 
-1. Download the required vlfeat library from http://www.vlfeat.org/ link. It should be put in the [/external](/external) folder.
+1. Download the required vlfeat library for Matlab from http://www.vlfeat.org/. It should be put in the [/external](/external) folder.
 
-2. Run the [MasterCode.m](MasterCode.m) script.
+2. Run the [MasterCode.m](MasterCode.m) script on Matlab.
